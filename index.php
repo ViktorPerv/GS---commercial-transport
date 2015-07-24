@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 	<link rel="stylesheet/less" href="less/styles.less">
 	<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
 	<!-- Activate LESS CSS -->
 	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/1.7.3/less.min.js"></script>
 
@@ -23,6 +24,8 @@
 			</ul>
 		</nav>
 	</div>
+
+	<div id="testShoWinSize"></div>
 
 </body>
 </html>
